@@ -1,6 +1,6 @@
 # Tech Shorts Materials
 
-The following material are referenced in the [Tech Shorts series](https://www.youtube.com/watch?v=tpB4DwifH2s&list=PL3rNcyAiDYK1d7B8-4LSdSbY0B-h3gWeb).
+The following material are referenced in the video series [Tech Shorts](https://www.youtube.com/watch?v=tpB4DwifH2s&list=PL3rNcyAiDYK1d7B8-4LSdSbY0B-h3gWeb). This video series walks you through the steps to build an application in ServiceNow and highlights many of the platform capabilities along the way.
 
 ## Episode 1
 

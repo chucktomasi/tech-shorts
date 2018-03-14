@@ -4,7 +4,7 @@ The following material are referenced in the [Tech Shorts series](https://www.yo
 
 # Files:
 
-1. [Safety Issues Spreadsheet](blob/master/files/Safety%20Issues.xlsx)
+1. [Safety Issues Spreadsheet](files/Safety%20Issues.xlsx)
 
 # Links
 

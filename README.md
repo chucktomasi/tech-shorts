@@ -71,12 +71,12 @@ The following material are referenced in the video series [Tech Shorts](https://
 * [Service Portal](https://docs.servicenow.com/bundle/kingston-servicenow-platform/page/build/service-portal/concept/c_ServicePortal.html)
 * [Native Mobile App](https://docs.servicenow.com/bundle/kingston-servicenow-platform/page/administer/tablet-mobile-ui/concept/c_MobileAppUI.html)
 
-<!--
-
 ## Episode 16
 
 * [Reporting](https://docs.servicenow.com/bundle/kingston-performance-analytics-and-reporting/page/use/reporting/reference/reporting-landing-page.html)
 * [Dashboards](https://docs.servicenow.com/bundle/kingston-performance-analytics-and-reporting/page/use/dashboards/reference/dashboards-landing-page.html)
+
+<!--
 
 ## Episode 17
 

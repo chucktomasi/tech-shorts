@@ -76,11 +76,11 @@ The following material are referenced in the video series [Tech Shorts](https://
 * [Reporting](https://docs.servicenow.com/bundle/kingston-performance-analytics-and-reporting/page/use/reporting/reference/reporting-landing-page.html)
 * [Dashboards](https://docs.servicenow.com/bundle/kingston-performance-analytics-and-reporting/page/use/dashboards/reference/dashboards-landing-page.html)
 
-<!--
-
 ## Episode 17
 
 * [Source Control Integration](https://docs.servicenow.com/bundle/kingston-application-development/page/build/applications/concept/c_SourceControlIntegration.html)
+
+<!--
 
 ## Episode 18
 

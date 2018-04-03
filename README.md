@@ -80,11 +80,11 @@ The following material are referenced in the video series [Tech Shorts](https://
 
 * [Source Control Integration](https://docs.servicenow.com/bundle/kingston-application-development/page/build/applications/concept/c_SourceControlIntegration.html)
 
-<!--
-
 ## Episode 18
 
 * [Exporting Data](https://docs.servicenow.com/bundle/kingston-application-development/page/build/applications/concept/c_SourceControlIntegration.html)
+
+<!--
 
 ## Episode 19
 

@@ -84,11 +84,11 @@ The following material are referenced in the video series [Tech Shorts](https://
 
 * [Exporting Data](https://docs.servicenow.com/bundle/kingston-application-development/page/build/applications/concept/c_SourceControlIntegration.html)
 
-<!--
-
 ## Episode 19
 
 * [Import Sets](https://docs.servicenow.com/bundle/kingston-platform-administration/page/administer/import-sets/reference/import-sets-landing-page.html)
+
+<!--
 
 ## Episode 20
 

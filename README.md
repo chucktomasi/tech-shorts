@@ -88,11 +88,12 @@ The following material are referenced in the video series [Tech Shorts](https://
 
 * [Import Sets](https://docs.servicenow.com/bundle/kingston-platform-administration/page/administer/import-sets/reference/import-sets-landing-page.html)
 
-<!--
 
 ## Episode 20
 
 * [Automated Test Framework](https://docs.servicenow.com/bundle/kingston-application-development/page/administer/auto-test-framework/concept/atf-overview.html)
+
+<!--
 
 ## Episode 21
 

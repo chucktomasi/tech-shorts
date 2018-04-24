@@ -93,12 +93,8 @@ The following material are referenced in the video series [Tech Shorts](https://
 
 * [Automated Test Framework](https://docs.servicenow.com/bundle/kingston-application-development/page/administer/auto-test-framework/concept/atf-overview.html)
 
-<!--
-
 ## Episode 21
 
 * [Application Sharing](https://docs.servicenow.com/bundle/kingston-application-development/page/build/applications/concept/c_SharingApplications.html)
 * [Create Application Files to Include Sample Data](https://docs.servicenow.com/bundle/kingston-application-development/page/build/applications/task/t_IncludeApplicationData.html)
 * [Publish an Application to the Application Repository](https://docs.servicenow.com/bundle/kingston-application-development/page/build/applications/task/t_PublishAppsToTheAppRepository.html)
-
--->

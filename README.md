@@ -98,3 +98,7 @@ The following material are referenced in the video series [Tech Shorts](https://
 * [Application Sharing](https://docs.servicenow.com/bundle/kingston-application-development/page/build/applications/concept/c_SharingApplications.html)
 * [Create Application Files to Include Sample Data](https://docs.servicenow.com/bundle/kingston-application-development/page/build/applications/task/t_IncludeApplicationData.html)
 * [Publish an Application to the Application Repository](https://docs.servicenow.com/bundle/kingston-application-development/page/build/applications/task/t_PublishAppsToTheAppRepository.html)
+
+## Episode 22
+
+* [Access Control List Rules](https://docs.servicenow.com/bundle/kingston-platform-administration/page/administer/contextual-security/concept/access-control-rules.html)

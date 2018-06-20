@@ -102,3 +102,11 @@ The following material are referenced in the video series [Tech Shorts](https://
 ## Episode 22
 
 * [Access Control List Rules](https://docs.servicenow.com/bundle/kingston-platform-administration/page/administer/contextual-security/concept/access-control-rules.html)
+
+## Episode 23
+* [Service Level Agreements](https://docs.servicenow.com/bundle/kingston-customer-service-management/page/product/customer-service-management/concept/c_ServiceLevelAgreements.html)
+* [Use SLA Retroactive Start and Pause](https://docs.servicenow.com/bundle/kingston-it-service-management/page/product/service-level-management/task/t_UseSLARetroactiveStartAndPause.html)
+
+## Episode 24
+* [Service Level Agreements](https://docs.servicenow.com/bundle/kingston-customer-service-management/page/product/customer-service-management/concept/c_ServiceLevelAgreements.html)
+* [Use SLA Retroactive Start and Pause](https://docs.servicenow.com/bundle/kingston-it-service-management/page/product/service-level-management/task/t_UseSLARetroactiveStartAndPause.html)

@@ -113,9 +113,11 @@ The following material are referenced in the video series [Tech Shorts](https://
 * [Use SLA Retroactive Start and Pause](https://docs.servicenow.com/bundle/kingston-it-service-management/page/product/service-level-management/task/t_UseSLARetroactiveStartAndPause.html)
 
 ## Episode 25
+
 * [Process Flow Formatter] (https://docs.servicenow.com/bundle/kingston-platform-administration/page/administer/form-administration/reference/r_ProcessFlowFormatter.html)
 
 ## Episode 26
+
 * [UI Actions] (https://docs.servicenow.com/bundle/kingston-platform-administration/page/administer/list-administration/concept/c_UIActions.html)
 * [Script API Reference] (https://developer.servicenow.com)
 * [Script] (scripts/Ep26-UI Action-Send to IT.js)

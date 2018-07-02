@@ -120,4 +120,4 @@ The following material are referenced in the video series [Tech Shorts](https://
 
 * [UI Actions](https://docs.servicenow.com/bundle/kingston-platform-administration/page/administer/list-administration/concept/c_UIActions.html)
 * [Script API Reference](https://developer.servicenow.com)
-* [Script](scripts/Ep26-UI Action-Send to IT.js)
+* [Script](scripts/Ep26-UI-Action-Send-to-IT.js)

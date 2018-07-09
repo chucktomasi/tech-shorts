@@ -121,3 +121,7 @@ The following material are referenced in the video series [Tech Shorts](https://
 * [UI Actions](https://docs.servicenow.com/bundle/kingston-platform-administration/page/administer/list-administration/concept/c_UIActions.html)
 * [Script API Reference](https://developer.servicenow.com)
 * [Script](scripts/Ep26-UI-Action-Send-to-IT.js)
+
+## Episode 27
+
+* [Script Debugger](https://developer.servicenow.com/app.do#!/catlist/technical_best_practices?v=kingston)

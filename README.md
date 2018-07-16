@@ -125,3 +125,7 @@ The following material are referenced in the video series [Tech Shorts](https://
 ## Episode 27
 
 * [Script Debugger](https://developer.servicenow.com/app.do#!/catlist/technical_best_practices?v=kingston)
+
+## Episode 28
+
+* [Localization](https://docs.servicenow.com/bundle/kingston-platform-administration/page/administer/localization/reference/r_InternationalizationSupport.html)

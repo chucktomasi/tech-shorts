@@ -133,3 +133,7 @@ The following material are referenced in the video series [Tech Shorts](https://
 ## Episode 29
 
 * [Flow Designer](https://docs.servicenow.com/bundle/kingston-servicenow-platform/page/administer/flow-designer/concept/flow-designer.html)
+
+## Episode 30
+
+* [Business Rules](https://docs.servicenow.com/bundle/kingston-application-development/page/script/business-rules/concept/c_BusinessRules.html)

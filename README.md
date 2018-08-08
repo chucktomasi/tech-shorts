@@ -137,3 +137,7 @@ The following material are referenced in the video series [Tech Shorts](https://
 ## Episode 30
 
 * [Business Rules](https://docs.servicenow.com/bundle/kingston-application-development/page/script/business-rules/concept/c_BusinessRules.html)
+
+## Episode 31
+
+* [MetricBase](https://docs.servicenow.com/bundle/kingston-servicenow-platform/page/administer/metricbase/concept/metricbase.html)
